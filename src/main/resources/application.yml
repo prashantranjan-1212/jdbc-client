@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: blog
+  h2:
+    console:
+      enabled: true
